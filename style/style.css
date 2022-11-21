@@ -55,13 +55,13 @@ section p {
 }
 
 #img01 {
-    background-image: url(/desafios/d012/images/background001.jpg);
+    background-image: url(style.css);
     background-position: center right;
     background-size: cover;
 }
 
 #img02 {
-    background-image: url(/desafios/d012/images/background002.jpg);
+    background-image: url(style.css);
     background-size: cover;
 }
 
